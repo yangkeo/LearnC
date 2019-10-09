@@ -1,0 +1,17 @@
+"D:\IAR\arm\bin\armproc.dll" 
+
+"D:\IAR\arm\bin\armjlink2.dll" 
+
+"E:\研究生比赛\研电赛_采摘机器人\加拨码开关 0811047最终 - 副本\Prj\IAR\DZ10_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin "D:\IAR\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "D:\IAR\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "D:\IAR\arm\config\flashloader\NXP\FlashK60Dxxx128K.board" 
+
+
+
+
