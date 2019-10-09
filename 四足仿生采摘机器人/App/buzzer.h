@@ -1,0 +1,8 @@
+#ifndef _buzzer_H_
+#define _buzzer_H_
+//////////////////////////////////////////////////////////
+void buzzer_main(void);     //蜂鸣器中断控制函数
+void buzzer_test(void);     //蜂鸣器测试函数，鸣一秒
+void buzzer_init(void);    //蜂鸣器初始化函数
+//////////////////////////////////////////////////////////
+#endif
