@@ -1,0 +1,10 @@
+#ifndef _tuxiang_H_
+#define _tuxiang_H_
+//////////////////////////////////////////////////////////
+extern char faxiang;
+extern float skewing;          
+void tuxing_main(void);
+void tuxing_main_no(void);
+
+//////////////////////////////////////////////////////////
+#endif
