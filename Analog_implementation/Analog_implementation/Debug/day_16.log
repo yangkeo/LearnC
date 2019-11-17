@@ -1,0 +1,22 @@
+﻿生成启动时间为 2019/11/15 17:59:04。
+     1>项目“E:\比特\C高级作业\day_16\day_16\day_16.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Analog_implementation.c
+         Analog_implementation.c
+     1>e:\比特\c高级作业\day_16\day_16\analog_implementation.c(36): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\比特\c高级作业\day_16\day_16\analog_implementation.c(50): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\比特\c高级作业\day_16\day_16\analog_implementation.c(66): warning C4090: “初始化”: 不同的“const”限定符
+     1>e:\比特\c高级作业\day_16\day_16\analog_implementation.c(78): warning C4002: “assert”宏的实参太多
+     1>e:\比特\c高级作业\day_16\day_16\analog_implementation.c(79): warning C4090: “初始化”: 不同的“const”限定符
+     1>e:\比特\c高级作业\day_16\day_16\analog_implementation.c(80): warning C4090: “初始化”: 不同的“const”限定符
+     1>e:\比特\c高级作业\day_16\day_16\analog_implementation.c(91): warning C4090: “return”: 不同的“const”限定符
+     1>e:\比特\c高级作业\day_16\day_16\analog_implementation.c(94): warning C4090: “=”: 不同的“const”限定符
+     1>e:\比特\c高级作业\day_16\day_16\analog_implementation.c(95): warning C4090: “=”: 不同的“const”限定符
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\比特\C高级作业\day_16\Debug\day_16.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\比特\C高级作业\day_16\Debug\day_16.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\比特\C高级作业\day_16\Debug\day_16.lib" /MACHINE:X86 Debug\Analog_implementation.obj
+         day_16.vcxproj -> E:\比特\C高级作业\day_16\Debug\day_16.exe
+     1>已完成生成项目“E:\比特\C高级作业\day_16\day_16\day_16.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.18
